@@ -16,6 +16,10 @@ Pour utiliser l'horloge, il vous suffit d'ouvrir le fichier `index.html` dans vo
 
 Si vous souhaitez personnaliser l'horloge, vous pouvez modifier le code javascript dans le fichier `script.js` pour ajouter de nouvelles fonctionnalités à l'horloge.
 
+## Auteur
+
+Ce projet a été réalisé par DIISLAY (Testers7777)
+
 ## Licence
 
 Ce projet est sous licence [MIT](https://choosealicense.com/licenses/mit/).
