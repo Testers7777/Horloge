@@ -14,7 +14,7 @@ Pour utiliser l'horloge, il vous suffit d'ouvrir le fichier `index.html` dans vo
 
 ## Personnalisation
 
-Si vous souhaitez personnaliser l'horloge, vous pouvez modifier les styles CSS dans le fichier `style.css`. Vous pouvez également modifier le code javascript dans le fichier `script.js` pour ajouter de nouvelles fonctionnalités à l'horloge.
+Si vous souhaitez personnaliser l'horloge, vous pouvez modifier le code javascript dans le fichier `script.js` pour ajouter de nouvelles fonctionnalités à l'horloge.
 
 ## Licence
 
