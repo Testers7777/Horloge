@@ -5,12 +5,12 @@ Ce projet est une horloge numérique réalisée en JavaScript. L'horloge affiche
 ## Fonctionnalités
 
 - Affichage de l'heure en temps réel
-- Affichage des heures/minutes/secondes
+- Affichage des heures : minutes : secondes
 - Changement automatique toutes les secondes
 
 ## Utilisation
 
-Pour utiliser l'horloge, il vous suffit d'ouvrir le fichier `index.html` dans votre navigateur web. L'horloge s'affichera automatiquement et commencera à afficher l'heure actuelle en temps réel.
+Pour utiliser l'horloge, il vous suffit d'ouvrir le fichier `index.html`. L'horloge s'affichera automatiquement et commencera à afficher l'heure actuelle en temps réel.
 
 ## Personnalisation
 
