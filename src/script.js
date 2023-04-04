@@ -1,4 +1,4 @@
-const body = document.getElementById('body');
+const body = document.querySelector('body');
 setInterval(() => {
     body.innerHTML = 
     new Date().getHours() + ':' + new Date().getMinutes() + ':' + new Date().getSeconds();
